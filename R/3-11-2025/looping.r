@@ -1,5 +1,5 @@
 # looping for
-vektor <- (1:5)
+vektor <- (-1:5)
 for(i in vektor) {
   print("Anyyeong!")
 }
@@ -13,7 +13,6 @@ while(counter <= 5) {
 }
 
 # looping repeat until
-coba2 <- c("Saranghae")
 coba2 <- c("Saranghae")
 counter2 <- 1
 repeat {
