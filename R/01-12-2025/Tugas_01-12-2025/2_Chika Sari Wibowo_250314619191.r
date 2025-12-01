@@ -1,7 +1,7 @@
 #2. Chika Sari Wibowo - 250314519191
 
 greet_person <- function(greeting = "Halo", name) {
- print(paste(greeting, ",", name, "!"))
+ print(paste0(greeting, ", ", name, "!"))
 }
 
 greet_person(, "Salma")   

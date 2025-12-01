@@ -1,4 +1,3 @@
-
 #4. Chika Sari Wibowo - 250314519191
 
 max_two <- function(x, y) {
