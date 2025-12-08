@@ -10,7 +10,7 @@ if (n == 1) {
   
 } else if (n == 2) {
   cat("1, 1\n")
-  
+   
 } else {
   fibonacci <- numeric(n)
   fibonacci[1] <- 1

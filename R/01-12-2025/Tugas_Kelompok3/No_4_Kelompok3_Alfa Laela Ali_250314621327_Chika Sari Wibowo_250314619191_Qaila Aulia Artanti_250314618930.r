@@ -14,3 +14,4 @@ phi <- sqrt(6 * jumlah)
 
 cat(sprintf("Nilai phi = %.14f\n", phi))
 
+ 
